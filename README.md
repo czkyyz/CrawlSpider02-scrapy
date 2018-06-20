@@ -1,0 +1,1 @@
+# CrawlSpider02-scrapy
